@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**linnmd76/linnmd76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Michael Linn
 
-Here are some ideas to get you started:
+AI-focused developer specializing in prompt engineering, AI evaluation, and LLM-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- AI Automation Tool – Prompt-based content generation platform
+- AI Document Summarizer – AI-powered text analysis system
+- AI Chat App – Conversational interface using LLMs
+
+## Skills
+Python, JavaScript, Flask, React, AI API Integration, Prompt Engineering
+
+## Focus
+Building intelligent systems that improve AI response quality and usability.
